@@ -1,0 +1,12 @@
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\bin\Debug\RDExplorer.exe.config
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\bin\Debug\RDExplorer.exe
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\bin\Debug\RDExplorer.pdb
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\obj\Debug\RDExplorer.csprojResolveAssemblyReference.cache
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\obj\Debug\RDExplorer.Form1.resources
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\obj\Debug\RDExplorer.Properties.Resources.resources
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\obj\Debug\RDExplorer.csproj.GenerateResource.Cache
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\obj\Debug\RDExplorer.exe
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDExplorer\RDExplorer\obj\Debug\RDExplorer.pdb
+C:\Users\Ricky Divjakovski\Desktop\RDExplorer\RDExplorer\RDExplorer\bin\Debug\RDExplorer.exe.config
+C:\Users\Ricky Divjakovski\Desktop\RDExplorer\RDExplorer\RDExplorer\obj\Debug\RDExplorer.exe
+C:\Users\Ricky Divjakovski\Desktop\RDExplorer\RDExplorer\RDExplorer\obj\Debug\RDExplorer.pdb
